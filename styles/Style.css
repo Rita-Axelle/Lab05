@@ -1,0 +1,43 @@
+p {
+    font-size: large;
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: yellowgreen;
+    margin: 50px;
+    padding: 80px;
+}
+
+.first {
+    font-size: large;
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    color: #000000;
+    text-decoration-line: none;
+}
+
+a:hover {
+    background-color: blue;
+}
+
+.Menu li {
+    display: inline;
+    margin: 20px;
+}
+
+img {
+    width: 300px; height: 400px;
+}
+tr{
+    text-decoration-line: overline; text-decoration-line: underline;
+}
